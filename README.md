@@ -42,12 +42,11 @@ plt.imshow(image1)
 ## Output:
 
 ### Display the input Image
-
-
+![inp]()
 ### Display the result of Opening
-
+![inp](IMG_20220527_142639.jpg)
 ### Display the result of Closing
-
+![inp](
 
 ## Result
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
