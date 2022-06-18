@@ -1,4 +1,4 @@
-# Opening-and-Closing
+<h1 align="center">Opening and Closing</h1>
 
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
